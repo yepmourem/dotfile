@@ -1,0 +1,5 @@
+kitty + complete setup zsh | source /dev/stdin
+tab_bar_edge top
+font_family Firacode Nerd Font
+font_size 15.0
+allow_remote_control yes
